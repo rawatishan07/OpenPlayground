@@ -1,0 +1,16 @@
+{
+  "title": "Event Manager",
+  "category": "Utility",
+  "difficulty": "advanced",
+  "description": "A web-based Event Manager App that helps to in maintaining theupcomingevent by keeping track of them",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Three.js for 3D rendering",
+    "WebGL for graphics performance",
+    "Solver algorithm (e.g., Kociemba's algorithm) for solving the cube"
+  ],
+  "icon": "ri-qr-code-line",
+  "coverStyle": "background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;"
+}

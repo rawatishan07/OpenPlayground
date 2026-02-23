@@ -2332,6 +2332,12 @@
       "folder": "Dashboard Sidebar UI",
       "path": "./projects/Dashboard-Sidebar-UI/project.json",
       "link": "./projects/Dashboard-Sidebar-UI/index.html"
+  },
+  {
+      "folder": "Event-Manager",
+      "path": "./projects/Event-Manager/project.json",
+      "link": "./projects/Event-Manager/index.html"
+    
   }
   ]
 }
